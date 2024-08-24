@@ -32,6 +32,18 @@ To get started with this project, follow the steps below:
    ```sh
    npm install package.json
    ```
+3. Configure your .env file with your email and password credentials for sending mails and also the following fields
+
+   ```sh
+   PORT=YOUR_PORT
+   MONGO_URI=YOUR_MONGO_URI
+   BASE_URL =BASE_URL
+   HOST=EMAIL_HOST
+   SERVICE=EMAIL_SERVICE
+   PASS=GOOGLE_APP_PASSWORD
+   USER=MAIL_USERNAME
+
+   ```
 
 ### Start the application for development.
 
