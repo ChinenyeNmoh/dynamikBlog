@@ -57,6 +57,10 @@ npm run dev
 npm run build
 ```
 
+### live website
+
+(https://dynamikblog.onrender.com)
+
 To learn more about deployment, [see this](https://vitejs.dev/guide/static-deploy.html)
 
 ## Author
